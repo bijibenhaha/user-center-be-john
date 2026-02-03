@@ -1,7 +1,8 @@
 package com.john.usercenterbejohn;
 
-import com.john.usercenterbejohn.demos.web.mapper.UserMapper;
-import com.john.usercenterbejohn.demos.web.model.User;
+
+import com.john.usercenterbejohn.mapper.UserMapper;
+import com.john.usercenterbejohn.model.User;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
